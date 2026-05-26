@@ -1,7 +1,4 @@
-# QuantumChipGPT
-
-
-# Team details:
+#Team details:
 Team Name- Team AIQ
 Team Lead- P.Pavani
 Team Members -
@@ -9,6 +6,8 @@ M.Priyanka
 srinija
 Charishma
 Sravani sai
+
+# QuantumChipGPT
 
 **AI-Powered Quantum Chip Architecture Generator**
 
