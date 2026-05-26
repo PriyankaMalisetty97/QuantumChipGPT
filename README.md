@@ -1,5 +1,15 @@
 # QuantumChipGPT
 
+
+# Team details:
+Team Name- Team AIQ
+Team Lead- P.Pavani
+Team Members -
+M.Priyanka
+srinija
+Charishma
+Sravani sai
+
 **AI-Powered Quantum Chip Architecture Generator**
 
 QuantumChipGPT is a Flask web application that combines a GPT-2 language model with Qiskit to generate visual superconducting quantum chip layouts based on natural language prompts.
