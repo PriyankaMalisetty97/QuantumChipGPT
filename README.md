@@ -1,11 +1,13 @@
 **"#Team details:**
 Team Name- Team AIQ
+---
 Team Lead- P.Pavani
+---
 Team Members -
-M.Priyanka
-srinija
-Charishma
-Sravani sai
+| M.Priyanka |
+| srinija |
+| Charishma |
+| Sravani sai |
 
 # QuantumChipGPT
 
