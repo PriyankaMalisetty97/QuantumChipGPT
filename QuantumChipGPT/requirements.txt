@@ -1,0 +1,7 @@
+numpy
+flask
+qiskit
+transformers
+torch
+matplotlib
+networkx
